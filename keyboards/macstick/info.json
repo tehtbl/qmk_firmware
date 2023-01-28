@@ -27,11 +27,11 @@
       "LAYOUT": {
         "layout": [
           { "label": "UN", "x": 0, "y": 0 },
-          { "label": "EM", "x": 1, "y": 0 }
-          { "label": "CD", "x": 2, "y": 0 }
-          { "label": "AU", "x": 3, "y": 0 }
-          { "label": "AP", "x": 4, "y": 0 }
-          { "label": "FU", "x": 5, "y": 0 }
+          { "label": "EM", "x": 1, "y": 0 },
+          { "label": "CD", "x": 2, "y": 0 },
+          { "label": "AU", "x": 3, "y": 0 },
+          { "label": "AP", "x": 4, "y": 0 },
+          { "label": "FU", "x": 5, "y": 0 },
           { "label": "FP", "x": 6, "y": 0 }
         ]
       }
