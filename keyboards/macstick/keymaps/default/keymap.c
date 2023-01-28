@@ -20,7 +20,7 @@ bool process_record_user(uint16_t keycode, keyrecord_t *record) {
       case QMKTEST:
           if (record->event.pressed) {
               // when keycode QMKTEST is pressed
-              SEND_STRING("QMK is the best thing ever!");
+              SEND_STRING("QMK Macro Test /wo VIA!");
           } else {
               // when keycode QMKBEST is released
           }

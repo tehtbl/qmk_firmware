@@ -6,7 +6,7 @@
 #include "quantum.h"
 
 #define LAYOUT( \
-    A1, A2, A3, A4, A5, A6, A7 \
-    ) { \
-        {A1, A2, A3, A4, A5, A6, A7} \
-    }
+  K00, K01, K02, K03, K04, K05, K06 \
+  ) { \
+      {K00, K01, K02, K03, K04, K05, K06} \
+  }
